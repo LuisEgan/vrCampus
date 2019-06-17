@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/vrCampus/scenes/vrCampus.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
